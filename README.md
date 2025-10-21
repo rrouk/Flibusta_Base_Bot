@@ -16,7 +16,7 @@
 
 Как пользоваться:
 
-1. Качаем архив библиотеки Флибусты: https://booktracker.org/viewtopic.php?t=46979
+1. Качаем архив библиотеки Флибусты: [ссылка](https://booktracker.org/viewtopic.php?t=46979)
 
 2. По умолчанию docker-compose.yml настроен на следующие пути:
 
