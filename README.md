@@ -1,4 +1,4 @@
-<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/4885e0e4-3e5d-4f51-bc21-238bd8a40552" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/4885e0e4-3e5d-4f51-bc21-238bd8a40552" />
 
 
 📚 Telegram-бот "Flibusta-Base-Bot"
