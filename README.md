@@ -35,3 +35,9 @@ ADMIN_IDS=ВАШ_ID_ТЕЛЕГРАММ
 4. В папке с файлами бота выполняете:
    
 docker compose up -d
+
+Отблагодарить автора можно донатом на кошелек TRC20: TSCxhHQpSTpwwk8W1vJwPtyTm6Ep1eP5dd
+
+<img width="274" height="230" alt="image" src="https://github.com/user-attachments/assets/6c26e91a-acf0-4f03-80ae-05768cd6a177" />
+
+
